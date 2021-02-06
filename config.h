@@ -1,7 +1,7 @@
 /* See LICENSE file for copyright and license details. */
 
 /* Constants */
-#define TERMINAL "kitty"
+#define TERMINAL "termite"
 #define ST "st"
 #define TERMCLASS "st"
 
